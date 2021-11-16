@@ -4,9 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>React Git Demo</h1>
+        <p>Working on learning Git + React.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
